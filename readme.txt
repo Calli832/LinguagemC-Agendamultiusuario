@@ -1,0 +1,2 @@
+ Para fazer o codigo funcionar, basta usar o comando "mingw32-make" no terminal, para cirar arquivos objetos e afins. Após isso, automaticamente o programa será iniciado.
+ Caso queria rodar o programa novamente, mas usar o comando "./executavel.exe" ou abrir esse mesmo no diretorio do programa.
